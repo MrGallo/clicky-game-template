@@ -1,12 +1,13 @@
-# Adventure Game
+# Clicky Game
 
 ### Required concepts
-- Variables
-- Input/output
+- Pygame drawing ([Chapter 5](http://programarcadegames.com/index.php?chapter=introduction_to_graphics&lang=en))
+- Pygame animation ([Chapter 8](http://programarcadegames.com/index.php?chapter=introduction_to_animation&lang=en))
+- Pygame mouse/keyboard events ([Chapter 10](http://programarcadegames.com/index.php?chapter=controllers_and_graphics&lang=en))
 - If-statements
-- Looping
+- Loops
 
-Create a game where the user can make decisions and work through a simple story. Put your working, most up-to-date code in `main.py`. Group members may choose to create other files to work within temporarily and to isolate their own contributions.
+Create a game based on mouse clicks. Think *Temple Run*, *Cookie Clicker*, *Flappy Bird*, even the Chrome *No-Internet-Connection-Dinosaur-Jumping-Game*. Put your working, most up-to-date code in `main.py`. Group members may choose to create other files to work within temporarily and to isolate their own contributions.
 
 Although this is a groups project, each member will be assessed individually based on their contributions. If a particular member is not contributing, they will be asked to decouple from the group and turn in something on their own.
 
