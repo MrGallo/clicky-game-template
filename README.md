@@ -11,6 +11,8 @@ Create a game based on mouse clicks. Think *Temple Run*, *Cookie Clicker*, *Flap
 
 Although this is a groups project, each member will be assessed individually based on their contributions. If a particular member is not contributing, they will be asked to decouple from the group and turn in something on their own.
 
+## Pygame Template
+Use this [pygame template](https://gist.github.com/MrGallo/879bde988affcb6c6c4695d8de1910f7) to start your clicky game.
 
 ## Timeline
 - **Day 1**: Get assignment and get into groups
