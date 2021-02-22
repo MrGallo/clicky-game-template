@@ -45,3 +45,8 @@ Although this is a groups project, each member will be assessed individually bas
         - If statements
         - Loops (optional)
 - I may inturrupt during the presentation to ask questions.
+
+## FAQ
+**1. Where can I find the feedback you gave me?**
+
+Feedback is in this repository, in the Pull Requests tab. Under "Feedback". Please respond to comments and ask questions there (just to keep everything related in one place).
