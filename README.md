@@ -43,9 +43,11 @@ Use this [pygame template](https://gist.github.com/MrGallo/879bde988affcb6c6c469
 - Speak pricipally about:
     - What feedback I gave you and how you implemented it (or why you chose not to)
     - Your use of:
-        - Variables
-        - If statements
-        - Loops (optional)
+        - Pygame drawing
+        - Pygame animation
+        - Pygame mouse/keyboard events
+        - If-statements
+        - Loops
 - I may inturrupt during the presentation to ask questions.
 
 ## FAQ
